@@ -1,1 +1,1 @@
-# Classifying-own-handwritten-digits-by-CNN
+# Working with MNIST dataset
